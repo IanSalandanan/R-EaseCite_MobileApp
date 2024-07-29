@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\IT123P_Recitation_App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\IT123P_Recitation_App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\IT123P_Recitation_App.csproj",
+        "projectName": "IT123P_Recitation_App",
+        "projectPath": "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\IT123P_Recitation_App.csproj",
+        "packagesPath": "C:\\Users\\Christian Kerby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Christian Kerby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

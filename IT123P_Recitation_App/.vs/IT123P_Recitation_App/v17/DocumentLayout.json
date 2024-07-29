@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AE8292-9625-49E9-BB6D-BE4BE223ED90}|IT123P_Recitation_App.csproj|c:\\users\\christian kerby\\source\\repos\\it123p_recitation_app\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AE8292-9625-49E9-BB6D-BE4BE223ED90}|IT123P_Recitation_App.csproj|solutionrelative:transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AE8292-9625-49E9-BB6D-BE4BE223ED90}|IT123P_Recitation_App.csproj|C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AE8292-9625-49E9-BB6D-BE4BE223ED90}|IT123P_Recitation_App.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 32,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:10:11.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\Transactions.cs",
+              "RelativeDocumentMoniker": "Transactions.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\source\\repos\\IT123P_Recitation_App\\Transactions.cs",
+              "RelativeToolTip": "Transactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:11:50.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
