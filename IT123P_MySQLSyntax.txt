@@ -1,0 +1,21 @@
+CREATE TABLE section (
+    sect_id varchar(8) PRIMARY KEY);
+
+CREATE TABLE student (
+    stud_name varchar(255) PRIMARY KEY,
+    sect_id varchar(5) NOT NULL,
+    CONSTRAINT fk_sSection FOREIGN KEY (sect_id) REFERENCES section(sect_id)
+    ON DELETE CASCADE 
+    ON UPDATE CASCADE
+    );
+
+CREATE TABLE subject (
+    subj_id varchar(8) PRIMARY KEY);
+
+CREATE TABLE question (
+    ques_name VARCHAR(255)PRIMARY KEY, 
+    subj_id varchar(8) NOT NULL,
+    CONSTRAINT fk_qSubject FOREIGN KEY (subj_id) REFERENCES subject(subj_id)
+    ON DELETE CASCADE 
+    ON UPDATE CASCADE
+    );
